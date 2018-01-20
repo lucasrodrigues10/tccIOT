@@ -25,7 +25,8 @@ Esse projeto vai valer mais que o facebook. Para a realização desse projeto, f
 * ****
 
 ## Tutoriais e Diversos
-* https://trello.com/tccmaua <br>
-Tarefas e programação
+* Tarefas e programação <br>
+https://trello.com/tccmaua 
 
-
+* Como usar o Trello <br>
+https://www.youtube.com/watch?v=EC1ZxTpgPrQ
